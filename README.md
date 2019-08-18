@@ -13,7 +13,6 @@ Django、Redis、MYSQL
 ### 使用协议
 
 Websocket通信协议、Http通信协议、JSON数据协议
-```
 
 ## 系统设计
 
